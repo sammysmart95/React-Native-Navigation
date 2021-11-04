@@ -11,14 +11,13 @@ This is a tutorial on how to set-up navigation in react native using React Natig
 * run `yarn start` 
 * run ios or android app
 
-
-## Pull Requests
-Feel free to open pull requests before you've finished your code or tests. Opening your pull request soon will allow others to comment on it sooner.
-A checklist of things to remember when making a feature:
-* Write tests if applicable
-* Note important changes in the commit
-* Update the README file if needed
-* Update the documentation if needed
+## Contribution
+Feel free to make contributions to this project. It's really simple
+* Fork the project.
+* Each new feature or correction must be a PR.
+* Write tests if applicable.
+* Update the README file in details if needed .
+and that's it, your PR will be merged! thank in advance, lets make this awesome :)
 
 ## Documentation
 * See more on [React Navigation](https://reactnavigation.org/docs/getting-started)
